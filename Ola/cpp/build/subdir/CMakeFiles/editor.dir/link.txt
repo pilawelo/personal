@@ -1,0 +1,2 @@
+/bin/ar qc libeditor.a  CMakeFiles/editor.dir/adder.cpp.o
+/bin/ranlib libeditor.a

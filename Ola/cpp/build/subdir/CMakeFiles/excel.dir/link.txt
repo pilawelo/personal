@@ -1,0 +1,2 @@
+/bin/ar qc libexcel.a  CMakeFiles/excel.dir/excel_changer.cpp.o
+/bin/ranlib libexcel.a

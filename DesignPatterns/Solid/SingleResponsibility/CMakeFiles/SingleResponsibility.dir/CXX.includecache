@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/cpp-tutorial/DesignPatterns/Solid/SingleResponsibility/SingleResponsibility.cpp
+iostream
+-
+fstream
+-
+vector
+-
+

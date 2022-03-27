@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/OpenClose.dir/OpenClose.cpp.o  -o OpenClose 

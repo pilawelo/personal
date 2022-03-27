@@ -1,0 +1,2 @@
+/bin/ar qc libdupa.a  CMakeFiles/dupa.dir/adder.cpp.o
+/bin/ranlib libdupa.a

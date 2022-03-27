@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/cpp-tutorial/DesignPatterns/Solid/OpenClose/OpenClose.cpp
+iostream
+-
+fstream
+-
+vector
+-
+

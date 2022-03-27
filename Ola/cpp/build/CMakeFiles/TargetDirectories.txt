@@ -1,0 +1,6 @@
+/home/user/Ola/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/user/Ola/cpp/build/CMakeFiles/edit_cache.dir
+/home/user/Ola/cpp/build/CMakeFiles/Ola.dir
+/home/user/Ola/cpp/build/subdir/CMakeFiles/rebuild_cache.dir
+/home/user/Ola/cpp/build/subdir/CMakeFiles/edit_cache.dir
+/home/user/Ola/cpp/build/subdir/CMakeFiles/excel.dir

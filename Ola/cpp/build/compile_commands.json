@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/user/Ola/cpp/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -I/home/user/Ola/cpp/subdir -I/home/user/Ola/cpp/libxl-4.0.3.1/include_cpp  -g   -std=gnu++2a -o CMakeFiles/Ola.dir/main.cpp.o -c /home/user/Ola/cpp/main.cpp",
+  "file": "/home/user/Ola/cpp/main.cpp"
+},
+{
+  "directory": "/home/user/Ola/cpp/build/subdir",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -I/home/user/Ola/cpp/libxl-4.0.3.1/include_cpp  -g   -std=gnu++2a -o CMakeFiles/excel.dir/excel_changer.cpp.o -c /home/user/Ola/cpp/subdir/excel_changer.cpp",
+  "file": "/home/user/Ola/cpp/subdir/excel_changer.cpp"
+}
+]

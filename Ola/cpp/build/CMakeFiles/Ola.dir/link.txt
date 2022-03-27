@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-10  -g   CMakeFiles/Ola.dir/main.cpp.o  -o Ola  -Wl,-rpath,/home/user/Ola/cpp/libxl-4.0.3.1/lib64 subdir/libexcel.a ../libxl-4.0.3.1/lib64/libxl.so 

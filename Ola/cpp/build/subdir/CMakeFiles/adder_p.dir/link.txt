@@ -1,0 +1,2 @@
+/bin/ar qc libadder_p.a  CMakeFiles/adder_p.dir/adder.cpp.o
+/bin/ranlib libadder_p.a

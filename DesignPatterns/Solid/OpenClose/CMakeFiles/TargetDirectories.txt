@@ -1,0 +1,3 @@
+/home/user/cpp-tutorial/DesignPatterns/Solid/OpenClose/CMakeFiles/rebuild_cache.dir
+/home/user/cpp-tutorial/DesignPatterns/Solid/OpenClose/CMakeFiles/edit_cache.dir
+/home/user/cpp-tutorial/DesignPatterns/Solid/OpenClose/CMakeFiles/OpenClose.dir
