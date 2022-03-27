@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/SingleResponsibility.dir/SingleResponsibility.cpp.o  -o SingleResponsibility 

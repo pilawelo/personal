@@ -1,3 +1,0 @@
-/home/user/cpp-tutorial/DesignPatterns/Solid/SingleResponsibility/CMakeFiles/rebuild_cache.dir
-/home/user/cpp-tutorial/DesignPatterns/Solid/SingleResponsibility/CMakeFiles/edit_cache.dir
-/home/user/cpp-tutorial/DesignPatterns/Solid/SingleResponsibility/CMakeFiles/SingleResponsibility.dir
